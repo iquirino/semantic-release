@@ -24,7 +24,7 @@ The following three examples are the same.
 ```json
 {
   "release": {
-    "branches": ["master", "next"]
+    "branches": ["main", "next"]
   }
 }
 ```
@@ -32,7 +32,7 @@ The following three examples are the same.
 - Via `.releaserc` file:
 ```json
 {
-  "branches": ["master", "next"]
+  "branches": ["main", "next"]
 }
 ```
 
